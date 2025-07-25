@@ -1,0 +1,2 @@
+# Real-Time-Power-Factor-Correction-in-IEEE-33-Bus-System
+This project proposes an edge-computing framework for real-time power factor correction in a 33-bus grid with 2 MW solar PV. Using time-domain analysis and Hilbert transforms, it avoids FFT, reduces load, and ensures accuracy. AES-256 encryption secures cloud data, while closed-loop control deploys capacitors to boost PF and grid stability.
